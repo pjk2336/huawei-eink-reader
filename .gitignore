@@ -1,0 +1,17 @@
+# Build outputs
+/build/
+/dist/
+*.apk
+*.idsig
+
+# Generated test books
+/testdata/*.txt
+
+# IDE / OS
+.idea/
+*.iml
+.DS_Store
+Thumbs.db
+
+# Local configuration
+local.properties
